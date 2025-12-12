@@ -5,18 +5,20 @@ The case study highlights problem framing, PRD development, RBAC design, analyti
 
 ---
 
-## 📌 Supporting Material  
+##  Supporting Material  
 All screenshots, workflow images, and demo files (if any) can be added to your repo’s `/assets` folder.
 
 ---
 
-## 📖 Overview
+##  Overview
 Institutions often operate using disconnected tools—Drive, Sheets, Forms, WhatsApp, Razorpay—leading to confusion, errors, and inconsistent policy enforcement.  
 **Annie James centralizes every operation** into one governed, trackable platform.
 
 ---
 
-## 🎯 Vision & Objectives
+##  Vision & Objectives
+
+
 ### **Vision**
 Codify institutional policy, minimize manual effort, increase transparency, and enable real-time decision-making.
 
@@ -28,7 +30,7 @@ Codify institutional policy, minimize manual effort, increase transparency, and 
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 ### **1. Authentication & Account Control**
 - Email OTP password resets  
@@ -79,7 +81,7 @@ Codify institutional policy, minimize manual effort, increase transparency, and 
 
 ---
 
-## 🛡️ RBAC Architecture
+##  RBAC Architecture
 Strict hierarchical roles:
 
 **Super Admin → Admin → Mentor → Intern → Learner → General User**
@@ -111,7 +113,7 @@ Strict hierarchical roles:
 
 ---
 
-## 📊 Analytics & Experiments
+##  Analytics & Experiments
 
 ### **Experiment A: Automatic Result Emails**
 **Goal:** reduce support tickets by ~25%  
@@ -130,7 +132,8 @@ Strict hierarchical roles:
 
 ---
 
-## 🛣️ Roadmap
+## Roadmap
+
 - Introduce mentor/admin dashboards  
 - Assessment versioning  
 - Module progress dashboards  
@@ -139,7 +142,8 @@ Strict hierarchical roles:
 
 ---
 
-## ⚠️ Risks & Mitigations
+##  Risks & Mitigations
+
 | Risk | Mitigation |
 |------|------------|
 | Conflicting policies across batches | Module‑level configuration |
@@ -149,7 +153,8 @@ Strict hierarchical roles:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
+
 - **Backend:** Python, Flask  
 - **Frontend:** HTML, CSS, JS  
 - **Database:** MySQL (PostgreSQL‑ready)  
@@ -158,9 +163,9 @@ Strict hierarchical roles:
 
 ---
 
-## 📬 Contact  
+##  Contact  
 **Shara Ann Charles**  
-📧 charlessharaann@gmail.com  
-📱 +91 9880171196  
-🔗 https://www.linkedin.com/in/shara-charles-4040321bb/
+ charlessharaann@gmail.com  
+ +91 9880171196  
+ https://www.linkedin.com/in/shara-charles-4040321bb/
 
